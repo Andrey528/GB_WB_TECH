@@ -1,0 +1,28 @@
+{
+    "CLASSMATES": [
+      {
+        "id": 1,
+        "name": "Clark",
+        "age": 18,
+        "adress": "Moscow"
+      },
+      {
+        "id": 2,
+        "name": "Dave",
+        "age": 25,
+        "adress": "Novgorod"
+      },
+      {
+        "id": 3,
+        "name": "Ava",
+        "age": 21,
+        "adress": "Novosibirsk"
+      },
+      {
+        "id": 4,
+        "name": "Kevin",
+        "age": 22,
+        "adress": "Tashkent"
+      }
+    ]
+}

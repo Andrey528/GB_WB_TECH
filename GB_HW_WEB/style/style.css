@@ -1,0 +1,48 @@
+.ligth {
+    background-color: #ffdbdb;
+    color: #000;
+}
+
+.dark {
+    background-color: #333;
+    color: #fff;
+}
+
+body {
+    /* background-image: url('/img/4907157.jpg'); */
+    font-family: 'PT Sans', sans-serif;
+}
+
+.button-div {
+    text-align: right;
+}
+
+.text-content {
+    border-bottom: solid gray 1px;
+}
+
+.theme-button {
+    padding: 0 24px;
+    height: 30px;
+    color: rgb(173, 31, 24);
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+.text-content h1 {
+    color: purple;
+    text-shadow: 2px 2px red;
+}
+
+.htmlAndCssDesc {
+    text-align: center;
+}
+
+.mySkills {
+
+}
+
+.img-div {
+    text-align: center;
+    padding: 20px;
+}
